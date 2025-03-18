@@ -4,7 +4,7 @@
 Machine Learning and AI Engineer with experience in building RAG pipelines, fine-tuning models, and developing AI-driven solutions for financial forecasting and data analysis.
 
 ## 📫 How to reach me
-- Email: shivansh.mital1909@gmail.com
+- Email: shivanshmitalwo@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shivansh-mital-a6452a275/)
 
 ## 🛠️ Skills
